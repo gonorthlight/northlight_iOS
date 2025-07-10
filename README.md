@@ -40,11 +40,7 @@ https://gonorthlight.com/docs
 - Xcode 13.0+
 - Swift 5.5+
 
-## Support and documentation
-
-- Documentation: https://gonorthlight.com/docs
-
-License
+## License
 
 Copyright © 2025 Northlight. All rights reserved.
   
