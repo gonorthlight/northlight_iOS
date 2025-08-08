@@ -14,8 +14,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "NorthlightSDK",
-            url: "https://github.com/gonorthlight/northlight_iOS/releases/download/0.7.8/NorthlightSDK.xcframework.zip",
-            checksum: "9352a662f641533bb4ab425b0c8b64ac563a771d4ec72865403a5f955202ffe2"
+            url: "https://github.com/gonorthlight/northlight_iOS/releases/download/0.7.9/NorthlightSDK.xcframework.zip",
+            checksum: "c4a09d4228d664e95f5c24a037f1351f778c2f991a4e0290db1595430a274255"
         )
     ]
 )
